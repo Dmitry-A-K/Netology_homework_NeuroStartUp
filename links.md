@@ -1,3 +1,3 @@
 1. [Задание 1](https://github.com/Dmitry-A-K/Netology_homework_NeuroStartUp)
-2. [Задание 2]
+2. [Задание 2](https://github.com/Dmitry-A-K/Netology_homework_NeuroStartUp/tree/new-text)
 3. [Задание 3]
